@@ -4,13 +4,13 @@ This project is a reproduction of the printf function
 
 ## Installation
 
-When you have git clone the repository, for compute only the folder, You just need to include the library in the project's library
+When you have git cloned the repository, to compute only the folder, you just need to include the library in the project's library
 
 ## Use
 
-for use this project, you juste need to call the function:
+To use this project, you just need to call the function:
 - ft_printf("message %"what you need", variable");
-this function contains : 
+this function contains: 
 
 ## Supported conversions (ft_printf — without bonus)
 
