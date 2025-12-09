@@ -4,7 +4,7 @@ This project is a reproduction of the printf function
 
 ## Installation
 
-When you have git cloned the repository, to compute only the folder, you just need to include the library in the project's library
+Once you clone the repository, you just need to include the library in the project's library, to compute only the folder.
 
 ## Use
 
